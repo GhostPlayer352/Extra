@@ -1,20 +1,19 @@
 Begin
 
 initialize variables
-int as first, second, third
-float as avereage
+int as prelims, midterm, final
+float as average
 
-display "Enter your first grade" 
-input your first grade
+input prelims grade
+input midterms grade
+input finals grade
 
-display "Enter your second grade" 
-input your second grade
+calculate average
+average = (prelims * 0.30) + (midterm * 0.30) + (final * 0.40)
 
-display "Enter your third grade" 
-input your third grade
-
-compute your first grade, second grade, and third grade, and divide it to three
-
-display the result of your grade's average.
+display prelims grade
+display midterms grade
+display finals grade
+display your general average
 
 End
