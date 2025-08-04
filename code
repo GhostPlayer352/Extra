@@ -1,20 +1,24 @@
 Begin
 
-initialize variables
-num1, num2, num3, num4, num5
-sum, diff, prod, quot
+initialize fname as firstname
+initialize lname as lastname
+initialize age as age
+initialize course as course
+initialize ylevel as year level
 
-input num1
-input num2
-input num3
-input num4
-input num5
+display "first name"
+input fname
 
-compute the sum of num1 plus num2
-compute the difference of sum minus num3
-compute the product of difference multiplied by num4
-compute the quetient of product divided by num5
+display "last name"
+input Iname
 
-display output and the results.
+display "age"
+input age
+
+display "course"
+input course
+
+display "level"
+input ylevel
 
 end
