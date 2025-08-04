@@ -13,7 +13,7 @@ input your second grade
 display "Enter your third grade" 
 input your third grade
 
-compute the sum of your first grade, second grade, and third grade divide the sum of your first grade, second grade, and third grade to three
+compute your first grade, second grade, and third grade, and divide it to three
 
 display the result of your grade's average.
 
