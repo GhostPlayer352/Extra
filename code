@@ -1,7 +1,6 @@
 Begin
 
 initialize variables
-
 int as num1, num2
 int as sum, diff, prod
 
