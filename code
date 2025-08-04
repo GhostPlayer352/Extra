@@ -1,25 +1,20 @@
 Begin
 
 initialize variables
-int as num1, num2
-int as sum, diff, prod
+int as first, second, third
+float as avereage
 
-float as quot
+display "Enter your first grade" 
+input your first grade
 
-display "enter your first number"
-input your first number
+display "Enter your second grade" 
+input your second grade
 
-display "enter your second number"
-input your second number
+display "Enter your third grade" 
+input your third grade
 
-compute the sum of num1 and num 2
-compute the diff of num1 and num2
-compute the prod of num1 and num2
-compute the quot of num1 and num2
+compute the sum of your first grade, second grade, and third grade divide the sum of your first grade, second grade, and third grade to three
 
-display the sum and result
-display the diff and result
-display the prod and result
-display the quot and result
+display the result of your grade's average.
 
 End
