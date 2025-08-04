@@ -1,24 +1,26 @@
 Begin
 
-initialize fname as firstname
-initialize lname as lastname
-initialize age as age
-initialize course as course
-initialize ylevel as year level
+initialize variables
 
-display "first name"
-input fname
+int as num1, num2
+int as sum, diff, prod
 
-display "last name"
-input Iname
+float as quot
 
-display "age"
-input age
+display "enter your first number"
+input your first number
 
-display "course"
-input course
+display "enter your second number"
+input your second number
 
-display "level"
-input ylevel
+compute the sum of num1 and num 2
+compute the diff of num1 and num2
+compute the prod of num1 and num2
+compute the quot of num1 and num2
 
-end
+display the sum and result
+display the diff and result
+display the prod and result
+display the quot and result
+
+End
