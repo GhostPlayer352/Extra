@@ -1,19 +1,14 @@
 Begin
 
-initialize variables
-int as prelims, midterm, final
-float as average
+float as pr, rate, tm, st
 
-input prelims grade
-input midterms grade
-input finals grade
+input pr amount
+input rate interest
+input tm period
 
-calculate average
-average = (prelims * 0.30) + (midterm * 0.30) + (final * 0.40)
+calculate simple interest
+st = (pr * rate * tm) / 100
 
-display prelims grade
-display midterms grade
-display finals grade
-display your general average
+display st
 
 End
