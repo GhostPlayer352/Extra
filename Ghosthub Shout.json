@@ -1,1 +1,1 @@
-{"Username":"Mrbeast112022","UserId":3786985529,"Message":"https://ko-fi.com/drainchurch"}
+{"Username":"riploi46","UserId":5534799862,"Message":"-- c00lgui Loader\ntoolsTab:CreateButton({\n    Title = \"Load c00lgui\",\n    Callback = function()\n        loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dazscripts/c00lgui/main/source.lua\"))()\n    end\n})"}
