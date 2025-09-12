@@ -1,1 +1,1 @@
-{"Username":"jazmin00000008","UserId":9425754273,"Message":"trex"}
+{"Username":"topherqu","UserId":2059082703,"Message":"local Settings = {\n  JoinTeam = \"Pirates\";  -- ou \"Marines\"\n  Translator = true;\n}\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau\"))(Settings)\n``` 0"}
