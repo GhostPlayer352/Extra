@@ -1,1 +1,1 @@
-{"Username":"C00LKID0p60","UserId":9343834595,"Message":"fly"}
+{"Username":"456youry","UserId":3692431447,"Message":"local Player = game.Players.LocalPlayer\nlocal Character = Player.Character\nlocal Head = Character:FindFirstChild(\"Head\")"}
