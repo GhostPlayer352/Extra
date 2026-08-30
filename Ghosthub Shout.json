@@ -1,1 +1,1 @@
-{"Username":"sigma_3661677","UserId":11197770515,"Message":"-- Định nghĩa kích thước vùng bắt bóng (Hitbox)\n-- Ví dụ: Ngang 10 studs, Cao 6 studs, Sâu 6 studs\nlocal hitboxSize = Vector3.new(10, 6, 6)\nlocal hitboxCFrame = hrp.CFrame * CFrame.new(0, 0, -3) -- Đẩy vùng kiểm tra ra trước mặt nhân vật 3 studs\n"}
+{"Username":"sigma_3661677","UserId":11197770515,"Message":"••••••••••••••••••••••••••••••••••••••••••"}
