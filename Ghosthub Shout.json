@@ -1,1 +1,1 @@
-{"Username":"REDSKULL0004","UserId":11211216753,"Message":"hi guys "}
+{"Username":"Andrew235920","UserId":9884084218,"Message":"-- Script taken from https://xenoscripts.com website --\n\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/alanbeikers9/scripts-ofuzado-actualizado/refs/heads/main/Legends%20Battlegrounds%20Script%20.lua\"))()"}
